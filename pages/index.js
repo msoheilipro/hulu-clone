@@ -13,8 +13,7 @@ export default function Home({ results }) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h1>Working</h1>
-     <Header/>
+      <Header />
       <Nav />
       <Results results={results} />
     </div>
